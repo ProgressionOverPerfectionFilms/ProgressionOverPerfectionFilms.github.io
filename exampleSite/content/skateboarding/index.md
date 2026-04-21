@@ -9,8 +9,6 @@ params:
 resources:
   - src: IMG_3973.png
     title: Never too young or old to learn to skate 
-    params:
-      cover: true
   - src: IMG_3973.png
     title: SB Shellz protective gear
   - src: IMG_6879.png
