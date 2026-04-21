@@ -16,7 +16,7 @@ title = "Nikko"
     name = "Nikko Kimbrough"
   [params.socialIcons]
     instagram = "https://www.instagram.com/p.o.p.films"
-    github = "https://github.com/ProgressionOverPerfectionFilms"
+    #github = "https://github.com/ProgressionOverPerfectionFilms"
     youtube = "https://www.youtube.com/@ProgressionOverPerfectionFilms"
     email = "mailto:popfilmsmedia@gmail.com"
     website = "https://progressionoverperfectionfilms.github.io/"
