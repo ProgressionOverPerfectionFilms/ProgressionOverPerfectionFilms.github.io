@@ -3,7 +3,7 @@ description: Snowboarding is awesome
 menus: "main"
 title: Snowboarding
 categories: ["Snowboarding"]
-weight: 2
+weight: 3
 resources:
   - src: IMG_1596.png
     params:
