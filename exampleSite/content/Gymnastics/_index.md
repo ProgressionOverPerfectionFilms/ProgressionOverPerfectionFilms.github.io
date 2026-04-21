@@ -1,7 +1,7 @@
 ---
 description: This is the "Animals" album. It has two sub-albums.
-keywords: [Animals, Photos, Cats, Dogs]
-title: Animals
+keywords: [Skate-Boarding, Snow-Boarnding, Nikko-Kimbrough]
+title: Sports
 weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
