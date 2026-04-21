@@ -1,5 +1,5 @@
 ---
-description: Our professional photographs know how to capture you in your best light wether you are looking to build portfolio or get feedback on your technique. Contact us to book a session.
+description: Nikko is a professional photographer who knows how to capture you in your best light wether you are looking to build portfolio or get feedback on your technique. Contact us to book a session.
 menus: "main"
 title: Professional Photographer
 weight: 2
