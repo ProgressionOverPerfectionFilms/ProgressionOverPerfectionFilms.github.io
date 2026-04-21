@@ -1,9 +1,9 @@
 ---
-description: Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.
+description: Skateboarding is awesome.
 menus: "main"
-title: Snowboarding
-weight: 2
-categories: ["beauty", "fashion"]
+title: Skateboarding
+weight: 1
+categories: ["Skateboarding"]
 params:
   theme: light
 resources:
