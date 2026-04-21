@@ -7,14 +7,25 @@ menu:
     weight: 1
 ---
 
-Get in touch with P.O.P. Films
-
-<form action="https://formspree.io/f/your-id" method="POST">
-  <label>Your email:</label>
-  <input type="email" name="_replyto">
-
-  <label>Message:</label>
-  <textarea name="message"></textarea>
-
-  <button type="submit">Send</button>
-</form>
+<section>
+                    <h2>Get in touch</h2>
+                    <form 
+                        action="https://formspree.io/f/mqarvkkd"
+                        method="post" action="#">
+                        <div class="fields">
+                            <div class="field half">
+                                <input type="text" name="name" id="name" placeholder="Name" />
+                            </div>
+                            <div class="field half">
+                                <input type="text" name="email" id="email" placeholder="Email" />
+                            </div>
+                            <div class="field">
+                                <textarea name="message" id="message" rows="4" placeholder="What is your fantasy?"></textarea>
+                            </div>
+                        </div>
+                        <ul class="actions">
+                            <li><input type="submit" value="Send" class="primary" /></li>
+                            <li><input type="reset" value="Reset" /></li>
+                        </ul>
+                    </form>
+                </section>  
