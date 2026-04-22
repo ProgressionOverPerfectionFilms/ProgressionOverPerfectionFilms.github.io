@@ -18,4 +18,4 @@ description: Naughty Nikko is sexy dancer skilled lover who can make your fantas
 
 
 
-{{< calendly >}}
+Want to set up a phone call? [Check my calender.](https://calendly.com/necoentertainers/) Prices for services may vary. 
