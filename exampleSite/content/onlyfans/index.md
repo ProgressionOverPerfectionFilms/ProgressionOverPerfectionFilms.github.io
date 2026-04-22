@@ -9,9 +9,9 @@ resources:
     title: Silky milky rose petal bath
   - src: of1.png
     title: Sexy sauna time
-  - src: of3.png
+  - src: of2.png
     title: Hot spring sunset
-  - src: of4.png
+  - src: of3.png
     title: Balcony seduction   
 ---
 
