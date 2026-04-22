@@ -1,7 +1,7 @@
 ---
-description: Nikko is a professional photographer who knows how to capture you in your best light wether you are looking to build portfolio or get feedback on your technique. Contact us to book a session.
+description: Need help promoting your brand? Nikko can organize photo shoots and create video reels to highlight your action apparel and gear. 
 menus: "main"
-title: Professional Photographer
+title: Brand Photography
 weight: 2
 categories: ["photography", "skateboarding", "snowboarding"]
 params:

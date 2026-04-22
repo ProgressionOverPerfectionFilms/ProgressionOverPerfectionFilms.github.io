@@ -1,7 +1,7 @@
 ---
-description: Nikko competes in sports such as gynmastics, snowboarding, skateboarding, and wakeboarding.
+description: Progression over perfection is the motto here. Nikko's sports photograph skills will help you progress as an athlete. Looking for coaching too? Nikko's got you covered.
 menus: "main"
-title: Competative Athlete
+title: P.O.P Films
 categories: ["Snowboarding", "Skateboarding"]
 weight: 3
 resources:
