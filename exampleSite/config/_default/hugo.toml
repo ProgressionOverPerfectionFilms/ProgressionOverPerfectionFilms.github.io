@@ -25,6 +25,7 @@ title = "Nikko Kimbrough"
     #flickr = "https://www.flickr.com"
     #500px = "https://500px"
     #whatsapp = "1234567890"
+    calendly = "https://calendly.com/necoentertainers"
   [params.gallery]
     #boxSpacing = 10
     #targetRowHeight = 288
