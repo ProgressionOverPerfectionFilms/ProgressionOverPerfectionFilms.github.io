@@ -5,11 +5,9 @@ title: Competative Athlete
 categories: ["Snowboarding", "Skateboarding"]
 weight: 3
 resources:
-  - src: IMG_6774.png
+  - src: IMG_2739.png
     params:
       cover: true
-  - src: /images/Nikko-1.png
-    title: Kingvale Rail Park  
 ---
 
 
