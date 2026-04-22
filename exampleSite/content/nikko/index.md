@@ -18,7 +18,7 @@ resources:
 
 
 {{< callout >}}
-**Highlighted Text** - This works with markdown.
+**Subscribe now** - for videos, tutorials, and consulations on how to better please yourself and your partners.
 {{< /callout >}}
 
 
