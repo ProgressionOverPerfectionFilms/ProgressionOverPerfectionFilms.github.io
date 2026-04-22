@@ -10,3 +10,7 @@ resources:
       cover: true
 ---
 
+
+Nikko recently competed in a USASA Rail Jam. Check out the highlight reel on Instagram.
+
+{{< instagram DWdA81Fjknx >}}
