@@ -5,7 +5,7 @@ title: Competative Athlete
 categories: ["Snowboarding", "Skateboarding"]
 weight: 3
 resources:
-  - src: IMG_2739.png
+  - src: IMG_2399.png
     params:
       cover: true
 ---
