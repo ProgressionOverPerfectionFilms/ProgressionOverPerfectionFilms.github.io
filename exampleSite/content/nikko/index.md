@@ -28,10 +28,3 @@ resources:
 
 {{< formspree >}}
 
-
-    
-        
-            
-
-
-{{< calendly >}}
