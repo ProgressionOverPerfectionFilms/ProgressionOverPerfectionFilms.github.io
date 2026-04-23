@@ -10,4 +10,6 @@ menus:
 #cascade:
 #  build:
 #    publishResources: false # do not include full images. Also disable download
+images:
+  - imgage/nikko-1.png
 ---
