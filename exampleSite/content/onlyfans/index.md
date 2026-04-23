@@ -15,5 +15,7 @@ resources:
     title: Balcony seduction   
 ---
 
+I can be your photographer, your model, or both ;)
 
-This page could be made private, so that it doesn't appear on the home screen but is accessible by direct link. 
+{{< button url="https://onlyfans.com/u402216658" text="Connect on OnlyFans" >}}
+  
