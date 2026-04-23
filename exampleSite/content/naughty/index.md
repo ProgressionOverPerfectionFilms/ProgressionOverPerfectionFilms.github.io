@@ -33,4 +33,4 @@ resources:
 
  
 
-{{< button4 url="mailto:necoentertainers@gmail.com" text="Subscribe for More Content" >}}
+{{< button4 url="mailto:necoentertainers@gmail.com" text="Email to Learn More" >}}
