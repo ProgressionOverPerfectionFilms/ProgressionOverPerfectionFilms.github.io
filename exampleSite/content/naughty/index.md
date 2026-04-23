@@ -7,14 +7,10 @@ params:
 description: Naughty Nikko is sexy dancer skilled and lover who can make your fantasies come true.   
 ---
 
- 
-**[Subscribe now](mailto:necoentertainers@gmail.com)** - for videos, tutorials, and consulations on how to better please yourself and your partners.
-
-
-{{< formspree >}}
-
-
 {{< myiframe >}}
 
+**[Subscribe now](mailto:necoentertainers@gmail.com)** - for videos, tutorials, and consulations on how to better please yourself and your partners.
+
+{{< formspree >}}
 
 Let's get in touch!
