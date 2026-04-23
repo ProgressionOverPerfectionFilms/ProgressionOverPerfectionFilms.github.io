@@ -19,20 +19,18 @@ resources:
 
 {{< myiframe >}}
 
-**[Subscribe now](mailto:necoentertainers@gmail.com)** - for videos, tutorials, and consulations on how to better please yourself and your partners.
-
-{{< formspree >}}
+&nbsp;
 
 {{< button url="https://onlyfans.com/u402216658" text="Join me on OnlyFans" >}}
 
-
+&nbsp;
   
-
 {{< button2 url="https://www.pornhub.com/model/outdoor-booty-boobie" text="Watch on PornHub" >}}
 
+&nbsp;
 
 {{< button3 url="https://calendly.com/necoentertainers/" text="Couples Massage Sign Up." >}}
 
-   
+&nbsp;
 
-{{< button4 url="https://calendly.com/necoentertainers/" text="Subscribe for more content" >}}
+{{< button4 url="mailto:necoentertainers@gmail.com" text="Subscribe for more content" >}}
