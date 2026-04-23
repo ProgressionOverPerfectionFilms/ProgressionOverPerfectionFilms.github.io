@@ -8,7 +8,7 @@ description: Naughty Nikko is a sexy dancer and skilled lover who can make your 
 resources:
   - src: profile.png
     params:
-      hidden: false 
+      hidden: true 
   - src: of7.png
     params:
       hidden: true 
