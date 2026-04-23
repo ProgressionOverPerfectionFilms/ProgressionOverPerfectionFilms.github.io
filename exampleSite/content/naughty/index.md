@@ -9,6 +9,9 @@ resources:
   - src: profile.png
     params:
       hidden: true 
+  - src: of7.png
+    params:
+      hidden: true 
 ---
 
 {{< myiframe >}}
